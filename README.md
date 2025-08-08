@@ -43,7 +43,7 @@ To demonstrate end-to-end scraping, processing, saving, and visualizing real-wor
 
 🙋‍♂️ Author Info
 Nkonzo Buyani
-📧 Email: buyaninkono@gmail.com
+📧 Email: buyaninkonzo@gmail.com
 🔗 GitHub: 0713254478
 🔗 LinkedIn: Buyani Nkonzo
 📍 South Africa
